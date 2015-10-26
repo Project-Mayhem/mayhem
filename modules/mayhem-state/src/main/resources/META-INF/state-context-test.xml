@@ -22,6 +22,6 @@
 	<!--  bean:import resource="classpath:/META-INF/spring/core-springintegration-context.xml"/ -->
 	
 	<ctx:annotation-config></ctx:annotation-config>
-	<ctx:component-scan base-package="org.pinap.talents.state"></ctx:component-scan>
+	<ctx:component-scan base-package="org.pm.mayhem.state"></ctx:component-scan>
 	
 </bean:beans>

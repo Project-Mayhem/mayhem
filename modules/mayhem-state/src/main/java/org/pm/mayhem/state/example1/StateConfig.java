@@ -1,7 +1,9 @@
-package org.pm.mayhem.state.example;
+package org.pm.mayhem.state.example1;
 
 import java.util.EnumSet;
 
+import org.pm.mayhem.state.example1.model.Events;
+import org.pm.mayhem.state.example1.model.States;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.statemachine.config.EnableStateMachine;
 import org.springframework.statemachine.config.EnumStateMachineConfigurerAdapter;

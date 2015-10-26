@@ -1,4 +1,4 @@
-package org.pm.mayhem.state.example;
+package org.pm.mayhem.state.example1;
 
 import org.springframework.statemachine.annotation.OnTransition;
 import org.springframework.statemachine.annotation.WithStateMachine;

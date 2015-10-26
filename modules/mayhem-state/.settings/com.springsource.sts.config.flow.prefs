@@ -1,2 +1,3 @@
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/integration\:/mayhem-state/src/main/resources/META-INF/state-context-test.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<graph/>
 //com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/integration\:/talents-state/src/main/resources/META-INF/state-context-test.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<graph/>
 eclipse.preferences.version=1

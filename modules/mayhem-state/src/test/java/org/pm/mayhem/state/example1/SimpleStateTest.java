@@ -1,4 +1,4 @@
-package org.pm.mayhem.state;
+package org.pm.mayhem.state.example1;
 
 import java.util.Collection;
 
@@ -6,8 +6,8 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.pm.mayhem.state.example.Events;
-import org.pm.mayhem.state.example.States;
+import org.pm.mayhem.state.example1.model.Events;
+import org.pm.mayhem.state.example1.model.States;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.statemachine.StateMachine;
 import org.springframework.statemachine.transition.Transition;
