@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+mode: development
+Built-By: curtisbates
+Class-Path: hamcrest-core-1.3.jar spring-statemachine-test-1.0.0.RELEA
+ SE.jar hamcrest-library-1.3.jar spring-core-4.1.6.RELEASE.jar commons
+ -logging-1.2.jar spring-context-4.1.6.RELEASE.jar spring-aop-4.1.6.RE
+ LEASE.jar aopalliance-1.0.jar spring-beans-4.1.6.RELEASE.jar spring-e
+ xpression-4.1.6.RELEASE.jar spring-integration-core-4.1.5.RELEASE.jar
+  reactor-core-1.1.4.RELEASE.jar gs-collections-5.1.0.jar gs-collectio
+ ns-api-5.1.0.jar disruptor-3.2.1.jar jsr166e-1.0.jar spring-messaging
+ -4.1.6.RELEASE.jar spring-retry-1.1.1.RELEASE.jar spring-tx-4.1.6.REL
+ EASE.jar spring-statemachine-core-1.0.0.RELEASE.jar spring-boot-start
+ er-web-1.2.5.RELEASE.jar spring-boot-starter-1.2.5.RELEASE.jar spring
+ -boot-1.2.5.RELEASE.jar spring-boot-autoconfigure-1.2.5.RELEASE.jar s
+ pring-boot-starter-logging-1.2.5.RELEASE.jar snakeyaml-1.14.jar sprin
+ g-boot-starter-tomcat-1.2.5.RELEASE.jar tomcat-embed-core-8.0.23.jar 
+ tomcat-embed-el-8.0.23.jar tomcat-embed-logging-juli-8.0.23.jar tomca
+ t-embed-websocket-8.0.23.jar jackson-databind-2.4.6.jar jackson-annot
+ ations-2.4.0.jar jackson-core-2.4.6.jar hibernate-validator-5.1.3.Fin
+ al.jar validation-api-1.1.0.Final.jar jboss-logging-3.1.3.GA.jar clas
+ smate-1.0.0.jar spring-web-4.1.6.RELEASE.jar spring-webmvc-4.1.6.RELE
+ ASE.jar spring-boot-starter-integration-1.2.5.RELEASE.jar spring-boot
+ -starter-aop-1.2.5.RELEASE.jar aspectjrt-1.8.6.jar aspectjweaver-1.8.
+ 6.jar spring-integration-file-4.1.5.RELEASE.jar commons-io-2.4.jar sp
+ ring-integration-http-4.1.5.RELEASE.jar spring-integration-ip-4.1.5.R
+ ELEASE.jar spring-integration-stream-4.1.5.RELEASE.jar spring-boot-st
+ arter-actuator-1.2.5.RELEASE.jar spring-boot-actuator-1.2.5.RELEASE.j
+ ar spring-integration-amqp-4.1.5.RELEASE.jar spring-rabbit-1.4.5.RELE
+ ASE.jar amqp-client-3.5.1.jar spring-amqp-1.4.5.RELEASE.jar jcl-over-
+ slf4j-1.7.12.jar slf4j-api-1.7.12.jar jul-to-slf4j-1.7.12.jar log4j-o
+ ver-slf4j-1.7.12.jar logback-classic-1.0.1.jar logback-core-1.0.1.jar
+  spring-integration-jmx-4.1.5.RELEASE.jar
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+key: value
+url: http://www.project-mayhem.org
+
